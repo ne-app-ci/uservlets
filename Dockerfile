@@ -3,5 +3,5 @@
 
 FROM eclipse-temurin:21-jdk AS build
 
-EXPOSE 8080
+EXPOSE 80
 EXPOSE 443
